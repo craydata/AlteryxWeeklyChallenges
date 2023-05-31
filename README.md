@@ -1,7 +1,5 @@
 # Revenue-Operations-Process-Diagram
 
-
-
 ## Swim Lane Diagram: Consumer Journey and Lead Management
 Overview
 This swim lane diagram presents the process of consumer journey and lead management, divided into four main lanes: Consumer, Marketing, Sales, and Success. The purpose of the diagram is to visually depict how consumers interact with the product and how leads are nurtured and managed throughout the sales cycle.
